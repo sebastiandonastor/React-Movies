@@ -1,3 +1,3 @@
 export const Genres = () => {
-  <>Hello Genres</>;
+  return <>Hello Genres</>;
 };
